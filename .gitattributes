@@ -1,2 +1,4 @@
-*.jar filter=lfs diff=lfs merge=lfs -text
+学习资料/02_随堂资料/06_前端/01.[[:space:]]VsCode安装/VSCodeUserSetup-x64-1.81.1.exe filter=lfs diff=lfs merge=lfs -text
+学习资料/02_随堂资料/06_后端运行资料/big-event-1.0-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
